@@ -45,3 +45,6 @@ Bu proje; veri temizleme, özellik mühendisliği, makine öğrenmesi modeli kur
 |----------------|----------|
 | `notebooks/house_prices_pipeline_final.ipynb` | Tüm veri işleme, modelleme ve değerlendirme adımlarını içeren notebook |
 ---
+
+Dataset: https://www.kaggle.com/competitions/home-data-for-ml-course
+
